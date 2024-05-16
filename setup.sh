@@ -107,6 +107,6 @@ else
     echo "========================================================="
     echo "          WE DON'T SUPPORT THIS OS FOR NOW               "
     echo "========================================================="
-    echo ""
-    echo "OPEN AN ISSUE INSIDE THE GITHUB IF YOU WANT US TO SUPPORT YOUR OS"
+    echo "OS: $OS | VER: $VER"
+    echo "OPEN AN ISSUE INSIDE THE GITHUB IF YOU WANT US TO SUPPORT YOUR OS. "
 fi
